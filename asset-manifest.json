@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contact-form-with-react/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/contact-form-with-react/static/js/main.9a9e0658.chunk.js",
+    "main.js.map": "/contact-form-with-react/static/js/main.9a9e0658.chunk.js.map",
+    "runtime-main.js": "/contact-form-with-react/static/js/runtime-main.724a5fa1.js",
+    "runtime-main.js.map": "/contact-form-with-react/static/js/runtime-main.724a5fa1.js.map",
+    "static/js/2.11fb4a14.chunk.js": "/contact-form-with-react/static/js/2.11fb4a14.chunk.js",
+    "static/js/2.11fb4a14.chunk.js.map": "/contact-form-with-react/static/js/2.11fb4a14.chunk.js.map",
+    "index.html": "/contact-form-with-react/index.html",
+    "precache-manifest.e7c623a955414c2d02ad87780a49e738.js": "/contact-form-with-react/precache-manifest.e7c623a955414c2d02ad87780a49e738.js",
+    "service-worker.js": "/contact-form-with-react/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/contact-form-with-react/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.11fb4a14.chunk.js.LICENSE.txt": "/contact-form-with-react/static/js/2.11fb4a14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.724a5fa1.js",
+    "static/js/2.11fb4a14.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.9a9e0658.chunk.js"
+  ]
+}
